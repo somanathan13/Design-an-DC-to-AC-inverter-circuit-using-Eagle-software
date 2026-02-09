@@ -42,7 +42,6 @@ The quality of the output waveform depends on the switching method used. If the 
 # CIRCUIT DIAGRAM:
 
 <img width="744" height="547" alt="image" src="https://github.com/user-attachments/assets/d7d74d2e-322f-4cae-a94a-2cb9ac7186a8" />
-![WhatsApp Image 2026-02-09 at 10 00 29 AM](https://github.com/user-attachments/assets/c4b8a685-a23c-4b03-b375-c956b2d4f090)
 
  
 # Schematic diagram
